@@ -19,6 +19,11 @@ html{
     from {color:red}
     to {color:black}
 }
+
+@keyframes N2 {
+    from {color:red;transform: scale(175%)}
+    to {color:black}
+}
 @keyframes J {
     from {}
     50% {color:blue}
